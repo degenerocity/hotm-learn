@@ -14,7 +14,7 @@ export default {
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta httpEquiv="Content-Language" content="en" />
       <meta name="description" content="Humans of the Metaverse - Reference Guide" />
-      <meta name="og:description" content="Humans of the Metaverse - Reference Guide" />
+      <meta name="og:description" content="Best Practices, Common Problems, Important Links" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:image" content="https://hotm.6blocks.io/og.png" />
       <meta name="twitter:site:domain" content="https://hotm.6blocks.io" />
